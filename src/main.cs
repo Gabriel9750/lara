@@ -10,3 +10,4 @@ Lara Web Engine is a lightweight C# framework for web user interface development
 // guard against empty input
 // match the style used in the rest of the module
 // drop an unused branch
+// avoid re-reading the config on every call
